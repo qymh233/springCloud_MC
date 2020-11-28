@@ -37,21 +37,23 @@ https://docs.spring.io/spring-cloud-netflix/docs/2.2.5.RELEASE/reference/html/#s
 
 ## Zookeeper服务注册与发现  
 
-未实现  
+未进行代码实现  
 
 ## Consul 服务注册与发现  
 
-未实现  
+未进行代码实现  
 
 ## Ribbon 负载均衡服务调用  
-官网连接：https://docs.spring.io/spring-cloud-netflix/docs/2.2.5.RELEASE/reference/html/#spring-cloud-ribbon
+官网连接：https://docs.spring.io/spring-cloud-netflix/docs/2.2.5.RELEASE/reference/html/#spring-cloud-ribbon  
+客户端负载均衡 @LoadBlance
 ## OpenFeign 服务接口调用  
 官网连接：https://docs.spring.io/spring-cloud-openfeign/docs/2.2.5.RELEASE/reference/html/
 ## Hystrix断路器  
-官网连接：https://docs.spring.io/spring-cloud-openfeign/docs/2.2.5.RELEASE/reference/html/#spring-cloud-feign-hystrix
+官网连接：https://docs.spring.io/spring-cloud-openfeign/docs/2.2.5.RELEASE/reference/html/#spring-cloud-feign-hystrix  
+实现服务降级，熔断，限流 @HystrixCommand
 ## zuul路由网关  
 
-未实现(在他的旧版视频中讲过)  
+未进行代码实现(在他的旧版视频中讲过)  
 
 ## Gatway新一代网关  
 官网连接：https://docs.spring.io/spring-cloud-gateway/docs/2.2.5.RELEASE/reference/html/#gateway-starter
@@ -63,9 +65,18 @@ https://docs.spring.io/spring-cloud-netflix/docs/2.2.5.RELEASE/reference/html/#s
 官网连接：https://spring.io/projects/spring-cloud-stream
 ## Spring Cloud Sleuth分布式请求链路跟踪  
 官网连接：https://spring.io/projects/spring-cloud-sleuth
+
+
 ## Spring Cloud Alibaba Nacos服务注册和配置中心  
+
+官网连接：https://nacos.io/zh-cn/docs/quick-start.html  
+
 官网连接：https://spring-cloud-alibaba-group.github.io/github-pages/hoxton/en-us/index.html#_spring_cloud_alibaba_nacos_discovery
 ## Spring Cloud Alibaba Sentinel实现熔断与限流  
 官网连接：https://spring-cloud-alibaba-group.github.io/github-pages/hoxton/en-us/index.html#_spring_cloud_alibaba_sentinel
 ## Spring Cloud Alibaba Seata处理分布式事务  
-官网连接：https://github.com/seata/seata/
+
+未进行代码实现  
+
+官网连接：https://github.com/seata/seata/  
+
