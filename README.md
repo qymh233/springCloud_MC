@@ -60,11 +60,18 @@ https://docs.spring.io/spring-cloud-netflix/docs/2.2.5.RELEASE/reference/html/#s
 ## Spring Cloud Config 分布式配置中心  
 官网连接：https://spring.io/projects/spring-cloud-config
 ## Spring Cloud Bus消息总线  
-官网连接：https://spring.io/projects/spring-cloud-bus
+官网连接：https://spring.io/projects/spring-cloud-bus  
+
+动态刷新全局广播配置  
+
 ## Spring Cloud Stream消息驱动  
-官网连接：https://spring.io/projects/spring-cloud-stream
+官网连接：https://spring.io/projects/spring-cloud-stream  
+
+引入分组解决消息重复消费  
+
 ## Spring Cloud Sleuth分布式请求链路跟踪  
-官网连接：https://spring.io/projects/spring-cloud-sleuth
+官网连接：https://spring.io/projects/spring-cloud-sleuth  
+实现链路监控
 
 
 ## Spring Cloud Alibaba Nacos服务注册和配置中心  
