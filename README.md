@@ -5,17 +5,28 @@ springcloud 微服务学习
 视频连接：https://www.bilibili.com/video/BV18E411x7eT
 ## 依赖版本
 '''
-<properties>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <maven.compiler.source>1.8</maven.compiler.source>
-        <maven.compiler.target>1.8</maven.compiler.target>
-        <junit.version>4.12</junit.version>
-        <lombok.version>1.16.18</lombok.version>
-        <log4j.version>1.2.12</log4j.version>
-        <mysql.version>8.0.15</mysql.version>
-        <druid.version>1.1.12</druid.version>
-        <mybatis.spring.boot.version>2.1.2</mybatis.spring.boot.version>
-</properties>
+<properties>  
+        
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>  
+        
+        <maven.compiler.source>1.8</maven.compiler.source>  
+        
+        <maven.compiler.target>1.8</maven.compiler.target>  
+        
+        <junit.version>4.12</junit.version>  
+        
+        <lombok.version>1.16.18</lombok.version>  
+        
+        <log4j.version>1.2.12</log4j.version>  
+        
+        <mysql.version>8.0.15</mysql.version>  
+        
+        <druid.version>1.1.12</druid.version>  
+        
+        <mybatis.spring.boot.version>2.1.2</mybatis.spring.boot.version>  
+        
+</properties>  
+
 '''
 ### 具体可参考代码父pom中配置  
 
